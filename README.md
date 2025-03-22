@@ -152,8 +152,15 @@ python realtime_prediction.py
 ## 📊 Kết quả huấn luyện
 
 <p align="center">
-  <img src="images/ConfusionMatrixCNN.png" alt="Confusion Matrix CNN" width="400"/>
-  <img src="images/ConfusionMatrixMobileNet.png" alt="Confusion Matrix MobileNet" width="400"/>
+  <img src="https://github.com/user-attachments/assets/006a34f4-03cb-4717-b88e-290eb42fee15" alt="Confusion Matrix CNN" width="400"/>
+  <img src="https://github.com/user-attachments/assets/e251fb86-3372-470f-a066-e3a3952ce646" alt="Confusion Matrix MobileNet" width="400"/>
+</p>
+
+---
+
+## 📰 Poster
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a0362b32-8f20-476d-87bc-a842ccb89fbe" alt="System Architecture" width="800"/>
 </p>
 
 ---
