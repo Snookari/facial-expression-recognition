@@ -34,7 +34,7 @@
 
 ## 🏗️ QUY TRÌNH HỆ THỐNG
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/afea6305-8321-4a3d-b824-a519fb7028eb" alt="System Flow" width="800"/>
+  <img src="https://github.com/user-attachments/assets/9cb5a4a5-7735-418e-9d3a-2b047a94fc02" alt="System Flow" width="800"/>
 </p>
 
 ---
