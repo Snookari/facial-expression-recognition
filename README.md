@@ -160,7 +160,7 @@ python realtime_prediction.py
 
 ## 📰 Poster
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a0362b32-8f20-476d-87bc-a842ccb89fbe" alt="System Architecture" width="800"/>
+  <img src="https://github.com/user-attachments/assets/01065f83-eb94-4178-b335-517e3229f56c" alt="System Architecture" width="800"/>
 </p>
 
 ---
