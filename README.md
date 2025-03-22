@@ -168,15 +168,13 @@ python realtime_prediction.py
 ## 🤝 Đóng góp
 Dự án được phát triển bởi 4 thành viên:
 
-| Họ và Tên       | Vai trò                  |
-|-----------------|--------------------------|
-| Nguyễn Nam Hưng | Phát triển mã nguồn, xử lý ảnh, thiết kế và huấn luyện mô hình, đánh giá, demo hệ thống.|
-| Hoàng Mạnh Linh | Tài liệu, poster, slide, hỗ trợ triển khai và thuyết trình.|
-| Đào Đức Mạnh    | Thiết kế slide, hỗ trợ tài liệu, test hệ thống.  |
-| Cao Văn Huy     | Hỗ trợ huấn luyện, kiểm thử.       |
+| Họ và Tên         | Vai trò                   |
+|-------------------|--------------------------|
+| Nguyễn Quang Hiệp | Phát triển mã nguồn, thiết kế và huấn luyện mô hình, đánh giá, demo hệ thống.|
+| Vũ Đức Anh        | Tài liệu, poster, slide, hỗ trợ triển khai và thuyết trình.|
+| Nguyễn Xuân Thuận | Thiết kế slide, hỗ trợ tài liệu, test hệ thống, xử lý ảnh.  |
+| Lê Đức Mạnh       | Hỗ trợ huấn luyện, kiểm thử, xử lý ảnh.       |
 
-© 2025 NHÓM 1, CNTT16-03, TRƯỜNG ĐẠI HỌC ĐẠI NAM
+© 2025 NHÓM 7, CNTT16-01, TRƯỜNG ĐẠI HỌC ĐẠI NAM
 
 ---
-
-Bạn muốn thêm phần **Poster**, **Video Demo** hoặc **Ảnh giao diện hệ thống** không? Mình có thể hỗ trợ viết thêm!
